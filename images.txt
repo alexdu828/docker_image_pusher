@@ -1,9 +1,1 @@
-halohub/halo-pro:2.18.1
-langgenius/dify-api:0.7.2
-langgenius/dify-web:0.7.2
-postgres:15-alpine
-redis:6-alpine
-langgenius/dify-sandbox:0.2.6
-ubuntu/squid:latest
-nginx:latest
-semitechnologies/weaviate:1.19.0
+hanhongyong/ms365-e5-renew-x:pubemail
