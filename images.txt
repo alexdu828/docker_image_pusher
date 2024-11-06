@@ -1,1 +1,4 @@
-severalnines/clustercontrol
+grafana/oncall
+redis:7.0.5
+prom/prometheus
+grafana/grafana:latest
