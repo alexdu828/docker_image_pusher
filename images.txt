@@ -1,2 +1,1 @@
-mariadb:10.8.2
-openspug/spug-service
+sonatype/nexus3
