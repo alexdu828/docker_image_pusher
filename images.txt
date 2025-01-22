@@ -1,1 +1,1 @@
-autobase/automation:latest
+autobase/console
