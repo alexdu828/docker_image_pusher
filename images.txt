@@ -1,1 +1,6 @@
-ghcr.io/open-webui/open-webui:main
+lobe-chat-database
+pgvector/pgvector:pg17
+minio/minio
+casbin/casdoor
+searxng/searxng
+lobehub/lobe-chat-database
