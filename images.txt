@@ -1,4 +1,4 @@
-lobe-chat-database
+lobehub/lobe-chat-database
 pgvector/pgvector:pg17
 minio/minio
 casbin/casdoor
