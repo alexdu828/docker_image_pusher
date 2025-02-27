@@ -3,4 +3,3 @@ pgvector/pgvector:pg17
 minio/minio
 casbin/casdoor
 searxng/searxng
-lobehub/lobe-chat-database
