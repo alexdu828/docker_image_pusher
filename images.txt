@@ -1,4 +1,1 @@
-famousmai/dify-plus-api:0.0.4
-famousmai/dify-plus-api:0.0.4
-famousmai/dify-plus-web:0.0.4
-famousmai/dify-plus-admin-server:0.0.2
+ghcr.io/open-webui/open-webui:main
