@@ -1,2 +1,1 @@
-infiniflow/ragflow:v0.16.0-slim
-infiniflow/ragflow:v0.16.0
+langgenius/dify-plugin-daemon:0.0.2-local
