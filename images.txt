@@ -1,1 +1,1 @@
-alpine
+xprobe/xinference
