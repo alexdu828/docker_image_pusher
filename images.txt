@@ -1,2 +1,2 @@
-nexmoe/lmspeed:latest
-postgres:16
+apache/skywalking-oap-server
+apache/skywalking-ui
