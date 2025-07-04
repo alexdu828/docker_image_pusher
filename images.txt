@@ -1,1 +1,1 @@
-docker.gitea.com/gitea:1.24.2
+pymumu/smartdns:latest
