@@ -1,4 +1,1 @@
-filerun/filerun:8.1
-mariadb:10.1
-logicalspark/docker-tikaserver
-docker.elastic.co/elasticsearch/elasticsearch:7.17.24
+gtstef/filebrowser:beta
